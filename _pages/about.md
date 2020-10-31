@@ -57,7 +57,7 @@ At present, my research efforts lie at the intersection of model free RL, model 
 At SMU, I worked on on optimizing constrained resource allocation at scale using deep RL \[[1](https://aaai.org/ojs/index.php/ICAPS/article/view/3528)\].\
 I am a proud owner of [this RL repository](https://github.com/bhatiaabhinav/RL-v2) \[2\], where I have implemented a host of popular modern RL algorithms.
 
-When I am not thinking about Bellman equations, I love consuming other science content such as documentaries on physics, evolutionary biology, neuroscience, psychology etc. As a bonus, they might give me some clues for my research.
+When I am not thinking about Bellman equations, I love consuming other science content such as documentaries on physics, evolutionary biology, neuroscience, psychology etc, in part looking for clues for my research.
 
 I'm a huge fan of Richard Feynman and Roger Federer.\
 My friends tell me I sing well.
