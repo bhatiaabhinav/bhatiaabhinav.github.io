@@ -56,7 +56,7 @@ I am interested in making fundamental contributions to artificial intelligence r
 At present, my research efforts lie at the intersection of model free RL, model based RL, planning, efficient exploration, heuristic search, anytime algorithms and metareasoning/metalearning.\
 I am a proud owner of [this RL repository](https://github.com/bhatiaabhinav/RL-v2) \[2\], where I have implemented a host of popular modern RL algorithms.
 
-When I am not thinking about Bellman equations, I love consuming other science content such as documentaries on physics, evolutionary biology, neuroscience, psychology, or anything scientific. As a bonus, they might give me some clues for my research.\
+When I am not thinking about Bellman equations, I love consuming other science content such as documentaries on physics, evolutionary biology, neuroscience, psychology etc. As a bonus, they might give me some clues for my research.\
 I'm the biggest fan of Richard Feynman. My friends tell me I sing well.
 
 ---
