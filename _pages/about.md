@@ -53,7 +53,7 @@ I am a second year MS/Ph.D. student at [College of Information and Computer Scie
 Before that, I worked as a software engineer at @WalmartLabs Banglore; and as an intern at Amazon Bangalore.
 
 I am interested in making fundamental contributions to artificial intelligence research, specially sequential decision making. The problem which keeps me up at night is how to scale Reinforcement Learning to make it work for autonomous agents in the real world.\
-At present, my research efforts are directed at the intersection of model free RL, model based RL, planning, efficient exploration, heuristic search, anytime algorithms and metareasoning/metalearning.\
+At present, my research efforts lie at the intersection of model free RL, model based RL, planning, efficient exploration, heuristic search, anytime algorithms and metareasoning/metalearning.\
 I am a proud owner of [this RL repository](https://github.com/bhatiaabhinav/RL-v2) \[2\], where I have implemented a host of popular modern RL algorithms.
 
 When I am not thinking about Bellman equations, I love consuming other science content such as documentaries on physics, evolutionary biology, neuroscience, psychology, or anything scientific. As a bonus, they might give me some clues for my research.\
