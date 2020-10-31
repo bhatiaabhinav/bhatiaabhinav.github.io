@@ -54,7 +54,7 @@ Before that, I worked as a software engineer at @WalmartLabs Banglore; and as an
 
 I am interested in making fundamental contributions to AI research, especially to sequential decision making. The problem which keeps me up at night is how to scale Reinforcement Learning to make it work for autonomous agents in the real world.\
 At present, my research efforts lie at the intersection of model free RL, model based RL, planning, efficient exploration, heuristic search, anytime algorithms and metareasoning/metalearning.\
-At SMU, I worked on on optimizing constrained resource allocation at scale using deep RL \[[1](https://aaai.org/ojs/index.php/ICAPS/article/view/3528)\].\
+At SMU, I worked on optimizing constrained resource allocation at scale using deep RL \[[1](https://aaai.org/ojs/index.php/ICAPS/article/view/3528)\].\
 I am a proud owner of [this RL repository](https://github.com/bhatiaabhinav/RL-v2) \[2\], where I have implemented a host of popular modern RL algorithms.
 
 When I am not thinking about Bellman equations, I love consuming other science content such as documentaries on physics, evolutionary biology, neuroscience, psychology etc, in part looking for clues towards my research.
