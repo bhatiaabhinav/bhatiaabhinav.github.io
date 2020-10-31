@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tanya Chowdhury"
+title                    : "Abhinav Bhatia"
 title_separator          : "-"
-name                     : &name "Tanya Chowdhury"
+name                     : &name "Abhinav Bhatia"
 description              : &description "Personal Website"
-url                      : https://takneeaa.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://bhatiaabhinav.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "TaKneeAa/TaKneeAa.github.io"
+repository               : "bhatiaabhinav/bhatiaabhinav.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tanya Chowdhury"
+  name             : "Abhinav Bhatia"
   avatar           : "profile1.jpg"
-  bio              : "Solving problems for Social good via Innovation"
+  bio              : "I teach robots how to imitate babies"
   location         : "Amherst, Massachusetts"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=tanya+chowdhury"
-  googlescholar    : "https://scholar.google.co.in/citations?user=mVjEyKoAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?authuser=2&user=B-fUkW8AAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           : "https://google.com/bhatiaabhinav"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "ta_knee_aa"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
