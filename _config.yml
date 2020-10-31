@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=tanya+chowdhury"
   googlescholar    : "https://scholar.google.com/citations?authuser=2&user=B-fUkW8AAAAJ"
-  email            :
+  email            : "abhinav.bhatia.me@gmail.com, abhinavbhati@umass.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+
 
 
 # Reading Files

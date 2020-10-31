@@ -62,6 +62,8 @@ When I am not thinking about Bellman equations, I love consuming other science c
 I'm a huge fan of Richard Feynman and Roger Federer.\
 My friends tell me I sing well.
 
+Please download my CV [here](https://bhatiaabhinav.github.io/files/resume.pdf).
+
 ---
 
 
