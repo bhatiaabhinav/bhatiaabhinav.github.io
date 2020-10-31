@@ -49,11 +49,12 @@ For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
  -->
-I am a second year MS/Ph.D. student at [College of Information and Computer Sciences](https://www.cics.umass.edu/), [University of Massachusetts, Amherst](www.umass.edu), advised by Prof. [Shlomo Zilberstein](https://groups.cs.umass.edu/shlomo/). I received a B.E. (Hons.) in Computer Science from [BITS-Pilani, India](https://bits-pilani.ac.in/) in 2015. Previously, I was a Research Engineer at Singapore Management University, School of Information Systems, where I worked with [Pradeep Varankantham](http://www.mysmu.edu/faculty/pradeepv/) and [Akshat Kumar]() on scaling constrained resource allocation using deep reinforcement learning \[[1](https://aaai.org/ojs/index.php/ICAPS/article/view/3528)\].
+I am a second year MS/Ph.D. student at [College of Information and Computer Sciences](https://www.cics.umass.edu/), [University of Massachusetts, Amherst](www.umass.edu), advised by Prof. [Shlomo Zilberstein](https://groups.cs.umass.edu/shlomo/). I received a B.E. (Hons.) in Computer Science from [BITS-Pilani, India](https://bits-pilani.ac.in/) in 2015. Previously, I was a Research Engineer at Singapore Management University, School of Information Systems, where I worked with [Pradeep Varankantham](http://www.mysmu.edu/faculty/pradeepv/) and [Akshat Kumar](http://www.mysmu.edu/faculty/akshatkumar/index.html).
 Before that, I worked as a software engineer at @WalmartLabs Banglore; and as an intern at Amazon Bangalore.
 
 I am interested in making fundamental contributions to artificial intelligence research, specially sequential decision making. The problem which keeps me up at night is how to scale Reinforcement Learning to make it work for autonomous agents in the real world.\
 At present, my research efforts lie at the intersection of model free RL, model based RL, planning, efficient exploration, heuristic search, anytime algorithms and metareasoning/metalearning.\
+At SMU, I worked on on optimizing constrained resource allocation at scale using deep RL \[[1](https://aaai.org/ojs/index.php/ICAPS/article/view/3528)\].\
 I am a proud owner of [this RL repository](https://github.com/bhatiaabhinav/RL-v2) \[2\], where I have implemented a host of popular modern RL algorithms.
 
 When I am not thinking about Bellman equations, I love consuming other science content such as documentaries on physics, evolutionary biology, neuroscience, psychology etc. As a bonus, they might give me some clues for my research.
