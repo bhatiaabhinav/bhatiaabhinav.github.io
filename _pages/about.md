@@ -49,8 +49,23 @@ For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
  -->
-I am a First year MS/Ph.D. student at [CICS,UMass Amherst](https://www.cics.umass.edu/). I am interested in developing post-hoc interpretability frameworks for various machine learning tasks, in particular Ranking.  I am lucky to be advised by [James Allan](http://ciir.cs.umass.edu/~allan/). I also am an active member of [LCS2 IIIT-Delhi](http://lcs2.iiitd.edu.in/) where I work with [Tanmoy Chakraborty](http://faculty.iiitd.ac.in/~tanmoy/). I graduated with Honours in Computer Science from [IIIT-Delhi](http://iiitd.ac.in/) in May 2018. I spent Summer'17 as an SWE intern at Google India.
+I am a second year MS/Ph.D. student at [College of Information and Computer Sciences](https://www.cics.umass.edu/), [University of Massachusetts, Amherst](www.umass.edu), advised by Prof. [Shlomo Zilberstein](https://groups.cs.umass.edu/shlomo/). I received a B.E. (Hons.) in Computer Science from [BITS-Pilani, India](https://bits-pilani.ac.in/) in 2015.
 
- Many moons ago, I performed an [Arangetram](https://en.wikipedia.org/wiki/Arangetram) in [Bharatnatyam](https://en.wikipedia.org/wiki/Bharatanatyam) and cleared Madhyamik in [Hindustani Sangeet](https://en.wikipedia.org/wiki/Hindustani_classical_music). 
 
-I am very passionate about developing ML and IR algorithms to enhance drug discovery and genomic understanding. I strongly believe that the path to developing robust systems for the same, is through model-introspective interpretability.
+Previously, I was a Research Engineer at Singapore Management University, School of Information Systems (2017-2019), where I worked with [Pradeep Varankantham](http://www.mysmu.edu/faculty/pradeepv/) and [Akshat Kumar]() on scaling constrained resource allocation using deep reinforcement learning \[[1](https://aaai.org/ojs/index.php/ICAPS/article/view/3528)\]. \
+Prior to that, I worked as a software engineer at @WalmartLabs Bengaluru, India (2015-2017); and interned at Amazon Bengaluru, India (2015).
+
+I am interested in making fundamental contributions to artificial intelligence research, specially sequential decision making. \
+Primarily, the problem which keeps me up at night is how to scale Reinforcement Learning to make it work for autonomous agents in the real world. At present, my research efforts are directed at the intersection of model free RL, model based RL, planning, efficient exploration, heuristic search, anytime algorithms and metareasoning/metalearning.
+
+I am a proud owner of [this RL repository](https://github.com/bhatiaabhinav/RL-v2) \[2\], where I have implemented a host of popular modern RL algorithms.
+
+
+---
+
+
+
+[1] Bhatia, A.; Varakantham, P.; Kumar A. *ICAPS 2019* \
+[Resource Constrained Deep Reinforcement Learning](https://aaai.org/ojs/index.php/ICAPS/article/view/3528)
+
+[2] https://github.com/bhatiaabhinav/RL-v2
