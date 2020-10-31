@@ -57,7 +57,7 @@ At present, my research efforts lie at the intersection of model free RL, model 
 I am a proud owner of [this RL repository](https://github.com/bhatiaabhinav/RL-v2) \[2\], where I have implemented a host of popular modern RL algorithms.
 
 When I am not thinking about Bellman equations, I love consuming other science content such as documentaries on physics, evolutionary biology, neuroscience, psychology, or anything scientific. As a bonus, they might give me some clues for my research.\
-I'm a biggest fan of Richard Feynman. My friends tell me I sing well.
+I'm the biggest fan of Richard Feynman. My friends tell me I sing well.
 
 ---
 
