@@ -7,6 +7,7 @@ TL;DR: Incorporating task-specific Q-value estimates as inputs to a meta-RL poli
 [PDF](../files/BNZarxiv2024.pdf)
 [Slides](../files/BNZgenplan23_slides.pdf)
 [Code](https://github.com/bhatiaabhinav/RL3)
+[Talk](https://neurips.cc/virtual/2023/79868)
 </small>
 
 
