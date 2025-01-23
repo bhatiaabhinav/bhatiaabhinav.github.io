@@ -1,6 +1,6 @@
 ## CV
 
-<font size="2">Updated: December 17, 2024</font>
+<font size="2">Updated: January 23, 2025</font>
 
 Download [PDF](../files/abhinavbhatia_cv.pdf)
 
@@ -98,6 +98,7 @@ Responsible for designing quizzes, clarifying students’ doubts and holding off
 
   
 ### Service Summary
+* Program Committee member, IJCAI 2025.
 * Organizing Committee member, AAAI 2024 GenPlan workshop.
 * Program Committee member, IJCAI 2024.
 * Program Committee member, NeurIPS 2023 GenPlan workshop.
