@@ -23,3 +23,10 @@ document.addEventListener("DOMContentLoaded", () => {
     window.addEventListener("hashchange", loadContent);
     loadContent();
 });
+
+document.addEventListener('DOMContentLoaded', function () {
+    const originalContactInfo = document.querySelector('.contact-info');
+    const clonedContactInfo = originalContactInfo.cloneNode(true);
+    const subtitleBarMini = document.querySelector('.contact-info-cloned');
+    subtitleBarMini.appendChild(clonedContactInfo);
+});
