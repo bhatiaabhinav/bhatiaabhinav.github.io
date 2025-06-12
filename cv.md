@@ -1,6 +1,6 @@
 ## CV
 
-<font size="2">Updated: January 23, 2025</font>
+<font size="2">Updated: June 12, 2025</font>
 
 Download [PDF](../files/abhinavbhatia_cv.pdf)
 
@@ -52,7 +52,7 @@ See [Github profile](https://github.com/bhatiaabhinav)
 
 
 - [RL$^3$: Boosting Meta Reinforcement Learning via RL inside RL$^2$](#publications/BNZgenplan23)<br>
-<small>Bhatia, A., Nashed, SB., & Zilberstein, S. (2023). In _NeurIPS Workshop on Generalization in Planning_.
+<small>Bhatia, A., Nashed, SB., & Zilberstein, S. In _NeurIPS Workshop on Generalization in Planning_ (2023), In _Reinforcement Learning Conference_ (2025).
 [PDF](files/BNZarxiv2024.pdf)</small>
 
 
