@@ -5,9 +5,9 @@ Bhatia, A., Nashed, SB., & Zilberstein, S. In _NeurIPS Workshop on Generalizatio
 TL;DR: Incorporating task-specific Q-value estimates as inputs to a meta-RL policy can lead to improved generalization and better performance over longer adaptation periods.
 
 [PDF](../files/BNZrlc25.pdf)
-[Slides](../files/BNZgenplan23_slides.pdf)
+[GenPlan23 Slides](../files/BNZgenplan23_slides.pdf)
 [Code](https://github.com/bhatiaabhinav/RL3)
-[Talk](https://neurips.cc/virtual/2023/79868)
+[GenPlan23 Talk](https://neurips.cc/virtual/2023/79868)
 </small>
 
 
