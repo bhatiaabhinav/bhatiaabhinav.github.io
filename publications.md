@@ -1,7 +1,7 @@
 ## Publications
 
 
-[RL$^3$: Boosting Meta Reinforcement Learning via RL inside RL$^2$](#publications/BNZgenplan23)<br>
+[RL$^3$: Boosting Meta Reinforcement Learning via RL inside RL$^2$](#publications/BNZrlc25)<br>
 Bhatia, A., Nashed, SB., & Zilberstein, S. In _NeurIPS Workshop on Generalization in Planning_ (2023), In _Reinforcement Learning Conference_ (2025).<br>
 <small>
 TL;DR: Incorporating task-specific Q-value estimates as inputs to a meta-RL policy can lead to improved generalization and better performance over longer adaptation periods.

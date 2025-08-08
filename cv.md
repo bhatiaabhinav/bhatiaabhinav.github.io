@@ -51,9 +51,9 @@ See [Github profile](https://github.com/bhatiaabhinav)
 
 
 
-- [RL$^3$: Boosting Meta Reinforcement Learning via RL inside RL$^2$](#publications/BNZgenplan23)<br>
+- [RL$^3$: Boosting Meta Reinforcement Learning via RL inside RL$^2$](#publications/BNZrlc25)<br>
 <small>Bhatia, A., Nashed, SB., & Zilberstein, S. In _NeurIPS Workshop on Generalization in Planning_ (2023), In _Reinforcement Learning Conference_ (2025).
-[PDF](files/BNZarxiv2024.pdf)</small>
+[PDF](files/BNZrlc25.pdf)</small>
 
 
 - [Selecting the Partial State Abstractions of MDPs: A Metareasoning Approach with Deep Reinforcement Learning](#publications/NSBRZiros22)<br>
