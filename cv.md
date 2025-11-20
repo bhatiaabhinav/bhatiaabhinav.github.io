@@ -13,11 +13,11 @@ Currently seeking research internships
 
 
 ### Interests
-Artificial Intelligence, Reinforcement Learning, Inverse Reinforcement Learning, Real-time Planning, Robotics
+Artificial Intelligence, Reinforcement Learning, Inverse Reinforcement Learning, Meta Reinforcement Learning, Real-time Planning, Robotics
 
 ### Education
 
-* Ph.D in Computer Science, [University of Massachusetts, Amherst](https://www.cics.umass.edu/), 2025 (expected).
+* Ph.D in Computer Science, [University of Massachusetts, Amherst](https://www.cics.umass.edu/), 2026 (expected).
   * Advisor: Prof. [Shlomo Zilberstein](https://groups.cs.umass.edu/shlomo/)
   * Coursework: Artificial Intelligence, Reinforcement Learning, Robotics, Advanced Robot Dynamics & Control, Machine Learning, Neural Networks, Advanced Algorithms, Empirical Research Methods, Advanced Information Assurance
 * M.S. in Computer Science, [University of Massachusetts, Amherst](https://www.cics.umass.edu/), 2022. GPA 3.95/4.
