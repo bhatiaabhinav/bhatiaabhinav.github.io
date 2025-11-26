@@ -1,6 +1,6 @@
 ## CV
 
-<font size="2">Updated: Oct 1, 2025</font>
+<font size="2">Updated: Nov 26, 2025</font>
 
 Download [PDF](../files/abhinavbhatia_cv.pdf)
 
@@ -15,6 +15,7 @@ Currently seeking research internships
 ### Interests
 Artificial Intelligence, Reinforcement Learning, Inverse Reinforcement Learning, Meta Reinforcement Learning, Real-time Planning, Robotics
 
+
 ### Education
 
 * Ph.D in Computer Science, [University of Massachusetts, Amherst](https://www.cics.umass.edu/), 2026 (expected).
@@ -22,6 +23,7 @@ Artificial Intelligence, Reinforcement Learning, Inverse Reinforcement Learning,
   * Coursework: Artificial Intelligence, Reinforcement Learning, Robotics, Advanced Robot Dynamics & Control, Machine Learning, Neural Networks, Advanced Algorithms, Empirical Research Methods, Advanced Information Assurance
 * M.S. in Computer Science, [University of Massachusetts, Amherst](https://www.cics.umass.edu/), 2022. GPA 3.95/4.
 * B.E. (Hons.) in Computer Science, [Birla Institute of Technology and Science, Pilani](https://bits-pilani.ac.in/), 2015. GPA 9.27/10.
+
 
 ### Work experience
 
@@ -40,21 +42,12 @@ Artificial Intelligence, Reinforcement Learning, Inverse Reinforcement Learning,
     * Worked on offline experience for Prime Video.
     * Worked on optimizing content load time for Prime Video on Kindle tablets.
 
-### Programming Skills
-
-- Languages: Experienced in Python, Julia, C/C++, Java. Familiar with C#, SQL.
-- Frameworks: OpenAI Gym, PyTorch, FluxML, Tensorflow, CPLEX, Elasticsearch, Unity3D
-
-See [Github profile](https://github.com/bhatiaabhinav)
 
 ### Publications
-
-
 
 - [RL$^3$: Boosting Meta Reinforcement Learning via RL inside RL$^2$](#publications/BNZrlc25)<br>
 <small>Bhatia, A., Nashed, SB., & Zilberstein, S. In _NeurIPS Workshop on Generalization in Planning_ (2023), In _Reinforcement Learning Conference_ (2025).
 [PDF](files/BNZrlc25.pdf)</small>
-
 
 - [Selecting the Partial State Abstractions of MDPs: A Metareasoning Approach with Deep Reinforcement Learning](#publications/NSBRZiros22)<br>
 <small>Nashed, S.B., Svegliato, J., Bhatia, A., Russell S., Zilberstein, S. (2022). In _IEEE/RSJ International Conference on Intelligent Robots and Systems_.
@@ -64,7 +57,6 @@ See [Github profile](https://github.com/bhatiaabhinav)
 <small>Bhatia, A., Thomas, PS., & Zilberstein, S. (2022). In _arXiv preprint arXiv:2206.02380_.
 [PDF](files/BTZarxiv22.pdf)</small>
 
-
 - [Tuning the Hyperparameters of Anytime Planning: A Metareasoning Approach with Deep Reinforcement Learning](#publications/BSNZicaps22)<br>
 <small>Bhatia, A., Svegliato, J., Nashed, S. B., & Zilberstein, S. (2022). In _Proceedings of the International Conference on Automated Planning and Scheduling_.
 [PDF](files/BSNZicaps22.pdf)</small>
@@ -72,7 +64,6 @@ See [Github profile](https://github.com/bhatiaabhinav)
 - [Tuning the Hyperparameters of Anytime Planning: A Deep Reinforcement Learning Approach](#publications/BSZhsdip2021)<br>
 <small>Bhatia, A., Svegliato, J., & Zilberstein, S. (2021). In _ICAPS Workshop on Heuristics and Search for Domain-independent Planning_.
 [PDF](files/BSZhsdip2021.pdf)</small>
-
 
 - [On the Benefits of Randomly Adjusting Anytime Weighted A*](#publications/BSZsocs21)<br>
 <small>Bhatia, A., Svegliato, J., & Zilberstein, S. (2021). In _Proceedings of the International Symposium on Combinatorial Search_.
@@ -83,10 +74,9 @@ See [Github profile](https://github.com/bhatiaabhinav)
 [PDF](files/BVKicaps2019.pdf)</small>
 
 
+### Teaching Experience
 
-### Teaching
-
-* Teaching Assistant | CS383 Artificial Intelligence, Fall 2022 <br>
+* Teaching Assistant | CS383 Artificial Intelligence | UMass Amherst, Fall 2022 <br>
 <small>_College of Information & Computer Sciences, University of Massachusetts Amherst_ <br>
 Responsible for designing quizzes, clarifying students’ doubts and holding office hours.</small>
 
@@ -97,7 +87,8 @@ Responsible for designing quizzes, clarifying students’ doubts and holding off
   {% endfor %}</ul> -->
 
 
-### Service Summary
+### Misc.
+* Dissertation Writing Fellowship Awardee, UMass Amherst, Spring 2026.
 * Program Committee member, IJCAI 2025.
 * Organizing Committee member, AAAI 2025 GenPlan workshop.
 * Program Committee member, IJCAI 2024.
@@ -106,4 +97,17 @@ Responsible for designing quizzes, clarifying students’ doubts and holding off
 * Program Committee member, AAAI 2023.
 * Paper reviewer, AIJ, 2021.
 * As a member of IEEE BITS-Pilani chapter, conceptualized, developed and organized an AI bot making competition for a video game at college tech festival 2014.
+* Won 1st prize for project _PC 3D Gesture Interface using Kinect_ in design appliances category at BITS-Pilani tech festival 2014.
+* Offered _Kishore Vaigyanik Protsahan Yojana_ fellowship, which is an initiative by govt. of India to encourage young students to pursue a career science research, 2010.
 
+
+### Programming Skills
+
+- Languages: Experienced in Python, C, Julia, C++, Java. Familiar with C#, SQL.
+- Frameworks: OpenAI Gym, PyTorch, FluxML, Tensorflow, CPLEX, Elasticsearch, Unity3D
+
+See [Github profile](https://github.com/bhatiaabhinav)
+
+
+### Relevant Ph.D. Coursework
+Artificial Intelligence, Reinforcement Learning, Robotics, Advanced Robot Dynamics & Control, Machine Learning, Neural Networks, Advanced Algorithms, Empirical Research Methods, Advanced Information Assurance
