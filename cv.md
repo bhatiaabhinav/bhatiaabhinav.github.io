@@ -1,6 +1,6 @@
 ## CV
 
-<font size="2">Updated: Nov 26, 2025</font>
+<font size="2">Updated: Jan 30, 2026</font>
 
 Download [PDF](../files/abhinavbhatia_cv.pdf)
 
@@ -13,7 +13,7 @@ Currently seeking research internships
 
 
 ### Interests
-Artificial Intelligence, Reinforcement Learning, Inverse Reinforcement Learning, Meta Reinforcement Learning, Real-time Planning, Robotics
+Artificial Intelligence, Reinforcement Learning, Inverse RL, Meta RL, AI Safety, Real-time Planning, Robotics
 
 
 ### Education
@@ -88,6 +88,7 @@ Responsible for designing quizzes, clarifying students’ doubts and holding off
 
 
 ### Misc.
+* Program Committee member, IJCAI 2025.
 * Dissertation Writing Fellowship Awardee, UMass Amherst, Spring 2026.
 * Program Committee member, IJCAI 2025.
 * Organizing Committee member, AAAI 2025 GenPlan workshop.
@@ -103,7 +104,7 @@ Responsible for designing quizzes, clarifying students’ doubts and holding off
 
 ### Programming Skills
 
-- Languages: Experienced in Python, C, Julia, C++, Java. Familiar with C#, SQL.
+- Languages: Experienced in C, Python, Julia, C++, Java. Familiar with C#, SQL.
 - Frameworks: OpenAI Gym, PyTorch, FluxML, Tensorflow, CPLEX, Elasticsearch, Unity3D
 
 See [Github profile](https://github.com/bhatiaabhinav)
