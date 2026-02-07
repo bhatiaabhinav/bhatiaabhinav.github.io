@@ -74,6 +74,18 @@ Artificial Intelligence, Reinforcement Learning, Inverse RL, Meta RL, AI Safety,
 [PDF](files/BVKicaps2019.pdf)</small>
 
 
+### Relevant Ph.D. Coursework
+Artificial Intelligence, Reinforcement Learning, Robotics, Advanced Robot Dynamics & Control, Machine Learning, Neural Networks
+
+
+### Programming Skills
+
+- Languages: Experienced in C, Python, Julia, C++, Java. Familiar with C#, SQL.
+- Frameworks: OpenAI Gym, PyTorch, Isaac Sim, FluxML, Tensorflow, CPLEX, Unity3D
+
+See [Github profile](https://github.com/bhatiaabhinav)
+
+
 ### Teaching Experience
 
 * Teaching Assistant | CS383 Artificial Intelligence | UMass Amherst, Fall 2022 <br>
@@ -101,14 +113,3 @@ Responsible for designing quizzes, clarifying students’ doubts and holding off
 * Won 1st prize for project _PC 3D Gesture Interface using Kinect_ in design appliances category at BITS-Pilani tech festival 2014.
 * Offered _Kishore Vaigyanik Protsahan Yojana_ fellowship, which is an initiative by govt. of India to encourage young students to pursue a career science research, 2010.
 
-
-### Programming Skills
-
-- Languages: Experienced in C, Python, Julia, C++, Java. Familiar with C#, SQL.
-- Frameworks: OpenAI Gym, PyTorch, Isaac Sim, FluxML, Tensorflow, CPLEX, Unity3D
-
-See [Github profile](https://github.com/bhatiaabhinav)
-
-
-### Relevant Ph.D. Coursework
-Artificial Intelligence, Reinforcement Learning, Robotics, Advanced Robot Dynamics & Control, Machine Learning, Neural Networks, Advanced Algorithms, Empirical Research Methods, Advanced Information Assurance
