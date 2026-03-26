@@ -13,8 +13,7 @@ Reinforcement Learning, Inverse RL, Offline RL, Real-time Planning, AI Safety, A
 
 * Ph.D in Computer Science, [University of Massachusetts, Amherst](https://www.cics.umass.edu/), 2026 (expected).
   * Advisor: Prof. [Shlomo Zilberstein](https://groups.cs.umass.edu/shlomo/)
-  * Relevant Coursework: Artificial Intelligence, Reinforcement Learning, Robotics, Advanced Robot Dynamics & Control, Machine Learn-
-ing, Neural Networks, Advanced Algorithms
+  * Relevant Coursework: Artificial Intelligence, Reinforcement Learning, Robotics, Advanced Robot Dynamics & Control, Machine Learning, Neural Networks, Advanced Algorithms
 * M.S. in Computer Science, [University of Massachusetts, Amherst](https://www.cics.umass.edu/), 2022. GPA 3.95/4.
 * B.E. (Hons.) in Computer Science, [Birla Institute of Technology and Science, Pilani](https://bits-pilani.ac.in/), 2015. GPA 9.27/10.
 
@@ -73,7 +72,7 @@ ing, Neural Networks, Advanced Algorithms
 
 - Developed a meta-reasoning framework with deep RL that enables users to customize AV driving personality at runtime through multiple preference variables (resulting in millions of combinations) while provably guaranteeing safety even for untested preference vectors. Addresses core AV adoption and safety challenges at scale by moving beyond fixed preset policies.
 - The Approach is applicable to any robotic or AI assistant.
-- As a testbench, designed and implemented a full-stack [AV simulator](https://github.com/bhatiaabhinav/Awesim) from scratch in pure C, enabling point-to-point driving simulation in seconds. Includes a city map, NPC traffic, and a vision stack with 7 cameras; supports ego control with deep RL through Python bindings or with lightweight deep-RL implemented in C.
+- As a testbench, designed and implemented a full-stack [AV simulator](https://github.com/bhatiaabhinav/Awesim) from scratch in pure C, enabling point-to-point driving simulation in seconds. Includes a city map, NPC traffic, and a lidar and vision stack with multiple cameras; supports ego control with deep RL through Python bindings or with lightweight deep-RL implemented in C.
 
 ### Programming Skills
 
@@ -100,7 +99,8 @@ Responsible for designing quizzes, clarifying students’ doubts and holding off
 * Paper reviewer, JMLR, 2023.
 * Program Committee member, AAAI 2023.
 * Paper reviewer, AIJ, 2021.
-* As a member of IEEE BITS-Pilani chapter, conceptualized, developed and organized an AI bot making competition for a video game at college tech festival 2014.
-* Won 1st prize for project _PC 3D Gesture Interface using Kinect_ in design appliances category at BITS-Pilani tech festival 2014.
-* Offered _Kishore Vaigyanik Protsahan Yojana_ fellowship, which is an initiative by govt. of India to encourage young students to pursue a career science research, 2010.
+* Conceptualized, developed and organized AI bot-making competition for a video game (IEEE BITS-Pilani
+chapter, 2014).
+* 1st Prize - PC 3D Gesture Interface using Kinect (BITS-Pilani Tech Festival 2014).
+* Offered _Kishore Vaigyanik Protsahan Yojana_ fellowship, an initiative by govt. of India to encourage young students to pursue a career science research, 2010.
 
