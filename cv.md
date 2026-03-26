@@ -1,26 +1,20 @@
 ## CV
 
-<font size="2">Updated: Jan 30, 2026</font>
+<font size="2">Updated: March 25, 2026</font>
 
 Download [PDF](../files/abhinavbhatia_cv.pdf)
 
 
-<!-- -----
-
-Currently seeking research internships
-
------ -->
-
-
 ### Interests
-Artificial Intelligence, Reinforcement Learning, Inverse RL, Meta RL, AI Safety, Real-time Planning, Robotics
+Reinforcement Learning, Inverse-RL, Offline-RL, Real-time Planning, AI Safety, Autonomous Vehicles, Robotics
 
 
 ### Education
 
 * Ph.D in Computer Science, [University of Massachusetts, Amherst](https://www.cics.umass.edu/), 2026 (expected).
   * Advisor: Prof. [Shlomo Zilberstein](https://groups.cs.umass.edu/shlomo/)
-  * Coursework: Artificial Intelligence, Reinforcement Learning, Robotics, Advanced Robot Dynamics & Control, Machine Learning, Neural Networks, Advanced Algorithms, Empirical Research Methods, Advanced Information Assurance
+  * Relevant Coursework: Artificial Intelligence, Reinforcement Learning, Robotics, Advanced Robot Dynamics & Control, Machine Learn-
+ing, Neural Networks, Advanced Algorithms
 * M.S. in Computer Science, [University of Massachusetts, Amherst](https://www.cics.umass.edu/), 2022. GPA 3.95/4.
 * B.E. (Hons.) in Computer Science, [Birla Institute of Technology and Science, Pilani](https://bits-pilani.ac.in/), 2015. GPA 9.27/10.
 
@@ -28,13 +22,13 @@ Artificial Intelligence, Reinforcement Learning, Inverse RL, Meta RL, AI Safety,
 ### Work experience
 
 * Jun 2024 - Aug 2024: Applied Sciences Intern at Microsoft Xbox Game Studios, Redmond
-    * Worked on multi-task inverse reinforcement learning and offline reinforcement learning solutions for automated game playing.
+    * Worked on multi-task inverse reinforcement learning and offline reinforcement learning solutions for automated gameplay.
 * Jun 2017 - Jul 2019:  Research Engineer at [School of Computing and Information Systems](https://scis.smu.edu.sg), [Singapore Management University](https://www.smu.edu.sg)
     * Supervised by Prof. [Pradeep Varakantham](http://www.mysmu.edu/faculty/pradeepv/) and Prof. [Akshat Kumar](http://www.mysmu.edu/faculty/akshatkumar/index.html)
     * Worked on optimizing constrained resource allocation at city scale using deep reinforcement learning, which led to a [publication](#publications/BVKicaps2019).
 
 * Aug 2015 - Jun 2017: Software Engineer at Walmart Labs, Bengaluru
-    * Was part of _Operations, Analytics & Research_ team for supply-chain division of Walmart’s eCommerce.
+    * Was part of the _Operations, Analytics & Research_ team for supply-chain division of Walmart’s eCommerce.
     * Developed an Elasticsearch based distributed database for data analysis.
     * Developed a deep-learning based system for anomaly-detection in large live incoming data streams.
 
@@ -73,15 +67,18 @@ Artificial Intelligence, Reinforcement Learning, Inverse RL, Meta RL, AI Safety,
 <small>Bhatia, A., Varakantham, P., & Kumar, A. (2019). In _Proceedings of the International Conference on Automated Planning and Scheduling_.
 [PDF](files/BVKicaps2019.pdf)</small>
 
+### Ongoing Projects
 
-### Relevant Ph.D. Coursework
-Artificial Intelligence, Reinforcement Learning, Robotics, Advanced Robot Dynamics & Control, Machine Learning, Neural Networks
+**Safe Runtime Personalization of Reinforcement Learning Policies**
 
+- Developed a meta-reasoning framework with deep RL that enables users to customize AV driving personality at runtime through multiple preference variables (resulting in millions of combinations) while provably guaranteeing safety even for untested preference vectors. Addresses core AV adoption and safety challenges at scale by moving beyond fixed preset policies.
+- The approach is applicable to any robotic assistant.
+- As a testbench, designed and implemented a full-stack [AV simulator](https://github.com/bhatiaabhinav/Awesim) from scratch in pure C, enabling point-to-point driving simulation in seconds. Includes a city map, NPC traffic, and a vision stack with 7 cameras; supports ego control with deep RL through Python bindings or with lightweight deep-RL implemented in C.
 
 ### Programming Skills
 
-- Languages: Experienced in C, Python, Julia, C++, Java. Familiar with C#, SQL.
-- Frameworks: OpenAI Gym, PyTorch, Isaac Sim, FluxML, Tensorflow, CPLEX, Unity3D
+- Languages: Experienced in C, Python, Julia. Familiar with C++ (built full game in undergrad)
+- Frameworks: PyTorch, OpenAI Gym, Isaac Sim, Tensorflow, CPLEX, Unity3D
 
 See [Github profile](https://github.com/bhatiaabhinav)
 
@@ -92,16 +89,10 @@ See [Github profile](https://github.com/bhatiaabhinav)
 <small>_College of Information & Computer Sciences, University of Massachusetts Amherst_ <br>
 Responsible for designing quizzes, clarifying students’ doubts and holding office hours.</small>
 
-<!-- Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul> -->
-
 
 ### Misc.
-* Program Committee member, IJCAI 2026.
 * Dissertation Writing Fellowship Awardee, UMass Amherst, Spring 2026.
+* Program Committee member, IJCAI 2026.
 * Program Committee member, IJCAI 2025.
 * Organizing Committee member, AAAI 2025 GenPlan workshop.
 * Program Committee member, IJCAI 2024.
