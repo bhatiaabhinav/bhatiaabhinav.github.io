@@ -1,12 +1,12 @@
 ## CV
 
-<font size="2">Updated: March 25, 2026</font>
+<font size="2">Updated: March 26, 2026</font>
 
 Download [PDF](../files/abhinavbhatia_cv.pdf)
 
 
 ### Interests
-Reinforcement Learning, Inverse-RL, Offline-RL, Real-time Planning, AI Safety, Autonomous Vehicles, Robotics
+Reinforcement Learning, Inverse RL, Offline RL, Real-time Planning, AI Safety, Autonomous Vehicles, Robotics, LLM-assisted decision making
 
 
 ### Education
@@ -22,10 +22,10 @@ ing, Neural Networks, Advanced Algorithms
 ### Work experience
 
 * Jun 2024 - Aug 2024: Applied Sciences Intern at Microsoft Xbox Game Studios, Redmond
-    * Worked on multi-task inverse reinforcement learning and offline reinforcement learning solutions for automated gameplay.
+    * Multi-task inverse and offline reinforcement learning for language conditioned automated gameplay.
 * Jun 2017 - Jul 2019:  Research Engineer at [School of Computing and Information Systems](https://scis.smu.edu.sg), [Singapore Management University](https://www.smu.edu.sg)
     * Supervised by Prof. [Pradeep Varakantham](http://www.mysmu.edu/faculty/pradeepv/) and Prof. [Akshat Kumar](http://www.mysmu.edu/faculty/akshatkumar/index.html)
-    * Worked on optimizing constrained resource allocation at city scale using deep reinforcement learning, which led to a [publication](#publications/BVKicaps2019).
+    * Worked on optimizing constrained resource allocation at city scale with semireal datasets using deep reinforcement learning.
 
 * Aug 2015 - Jun 2017: Software Engineer at Walmart Labs, Bengaluru
     * Was part of the _Operations, Analytics & Research_ team for supply-chain division of Walmart’s eCommerce.
@@ -72,7 +72,7 @@ ing, Neural Networks, Advanced Algorithms
 **Safe Runtime Personalization of Reinforcement Learning Policies**
 
 - Developed a meta-reasoning framework with deep RL that enables users to customize AV driving personality at runtime through multiple preference variables (resulting in millions of combinations) while provably guaranteeing safety even for untested preference vectors. Addresses core AV adoption and safety challenges at scale by moving beyond fixed preset policies.
-- The approach is applicable to any robotic assistant.
+- The Approach is applicable to any robotic or AI assistant.
 - As a testbench, designed and implemented a full-stack [AV simulator](https://github.com/bhatiaabhinav/Awesim) from scratch in pure C, enabling point-to-point driving simulation in seconds. Includes a city map, NPC traffic, and a vision stack with 7 cameras; supports ego control with deep RL through Python bindings or with lightweight deep-RL implemented in C.
 
 ### Programming Skills
