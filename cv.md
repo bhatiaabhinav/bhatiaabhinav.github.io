@@ -6,14 +6,13 @@ Download [PDF](../files/abhinavbhatia_cv.pdf)
 
 
 ### Interests
-Reinforcement Learning, Inverse RL, Offline RL, Real-time Planning, AI Safety, Autonomous Vehicles, Robotics, LLM-assisted decision making
+Reinforcement Learning, Inverse RL, Offline RL, Real-time Planning, AI Safety, Autonomous Vehicles, Embodied Robotics, LLM-assisted decision making
 
 
 ### Education
 
 * Ph.D in Computer Science, [University of Massachusetts, Amherst](https://www.cics.umass.edu/), 2026 (expected).
   * Advisor: Prof. [Shlomo Zilberstein](https://groups.cs.umass.edu/shlomo/)
-  * Relevant Coursework: Artificial Intelligence, Reinforcement Learning, Robotics, Advanced Robot Dynamics & Control, Machine Learning, Neural Networks, Advanced Algorithms
 * M.S. in Computer Science, [University of Massachusetts, Amherst](https://www.cics.umass.edu/), 2022. GPA 3.95/4.
 * B.E. (Hons.) in Computer Science, [Birla Institute of Technology and Science, Pilani](https://bits-pilani.ac.in/), 2015. GPA 9.27/10.
 
@@ -21,7 +20,7 @@ Reinforcement Learning, Inverse RL, Offline RL, Real-time Planning, AI Safety, A
 ### Work experience
 
 * Jun 2024 - Aug 2024: Applied Sciences Intern at Microsoft Xbox Game Studios, Redmond
-    * Multi-task inverse and offline reinforcement learning for language conditioned automated gameplay.
+    * Multi-task inverse and offline reinforcement learning for text conditioned automated gameplay.
 * Jun 2017 - Jul 2019:  Research Engineer at [School of Computing and Information Systems](https://scis.smu.edu.sg), [Singapore Management University](https://www.smu.edu.sg)
     * Supervised by Prof. [Pradeep Varakantham](http://www.mysmu.edu/faculty/pradeepv/) and Prof. [Akshat Kumar](http://www.mysmu.edu/faculty/akshatkumar/index.html)
     * Worked on optimizing constrained resource allocation at city scale with semireal datasets using deep reinforcement learning.
@@ -70,9 +69,14 @@ Reinforcement Learning, Inverse RL, Offline RL, Real-time Planning, AI Safety, A
 
 **Safe Runtime Personalization of Reinforcement Learning Policies**
 
-- Developed a meta-reasoning framework with deep RL that enables users to customize AV driving personality at runtime through multiple preference variables (resulting in millions of combinations) while provably guaranteeing safety even for untested preference vectors. Addresses core AV adoption and safety challenges at scale by moving beyond fixed preset policies.
-- The Approach is applicable to any robotic or AI assistant.
+- Developed a meta-reasoning framework that enables users to customize personality of customer-facing autonomous agents, for example, driving style in autonomous vehicles, at runtime through multiple preference variables (resulting in millions of combinations vs. fixed presets) while provably guaranteeing safety even for untested configurations. Increases adoption and addresses safety challenges at scale.
+- The approach applies to any robotic or AI assistant.
 - As a testbench, designed and implemented a full-stack [AV simulator](https://github.com/bhatiaabhinav/Awesim) from scratch in pure C, enabling point-to-point driving simulation in seconds. Includes a city map, NPC traffic, and a lidar and vision stack with multiple cameras; supports ego control with deep RL through Python bindings or with lightweight deep-RL implemented in C.
+
+### Relevant Coursework
+Artificial Intelligence, Reinforcement Learning, Robotics, Advanced Robot Dynamics & Control, Machine Learning, Neural Networks, Advanced Algorithms
+
+<small>Misc: The Advanced Robot Dynamics & Control coursework project involved training a simulated humanoid developed by a neighboring lab at UMass in Isaac Sim.
 
 ### Programming Skills
 
@@ -82,25 +86,25 @@ Reinforcement Learning, Inverse RL, Offline RL, Real-time Planning, AI Safety, A
 See [Github profile](https://github.com/bhatiaabhinav)
 
 
-### Teaching Experience
+<!-- ### Teaching Experience
 
 * Teaching Assistant | CS383 Artificial Intelligence | UMass Amherst, Fall 2022 <br>
 <small>_College of Information & Computer Sciences, University of Massachusetts Amherst_ <br>
-Responsible for designing quizzes, clarifying students’ doubts and holding office hours.</small>
+Responsible for designing quizzes, clarifying students’ doubts and holding office hours.</small> -->
+
+
+### Service & Teaching
+
+* Dissertation Writing Fellowship Awardee, UMass Amherst, Spring 2026.
+* Organizing committee member, AAAI 2025 GenPlan workshop.
+* Program Committee member: IJCAI 2026, 2025, 2024; NeurIPS GenPlan 2023; AAAI 2023.
+* Paper reviewer, JMLR, 2023; AIJ 2021.
+* Teaching Assistant, CS383 Artificial Intelligence, UMass Amherst (Fall 2022).
+
 
 
 ### Misc.
-* Dissertation Writing Fellowship Awardee, UMass Amherst, Spring 2026.
-* Program Committee member, IJCAI 2026.
-* Program Committee member, IJCAI 2025.
-* Organizing Committee member, AAAI 2025 GenPlan workshop.
-* Program Committee member, IJCAI 2024.
-* Program Committee member, NeurIPS 2023 GenPlan workshop.
-* Paper reviewer, JMLR, 2023.
-* Program Committee member, AAAI 2023.
-* Paper reviewer, AIJ, 2021.
-* Conceptualized, developed and organized AI bot-making competition for a video game (IEEE BITS-Pilani
-chapter, 2014).
+* Conceptualized, developed and organized AI bot-making competition for a video game (IEEE BITS-Pilani chapter, 2014).
 * 1st Prize - PC 3D Gesture Interface using Kinect (BITS-Pilani Tech Festival 2014).
-* Offered _Kishore Vaigyanik Protsahan Yojana_ fellowship, an initiative by govt. of India to encourage young students to pursue a career science research, 2010.
+* Offered Kishore Vaigyanik Protsahan Yojana (KVPY) Fellowship, Govt. of India (2010).
 
