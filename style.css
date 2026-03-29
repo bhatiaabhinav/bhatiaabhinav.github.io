@@ -11,6 +11,18 @@
     --pic-rounded-corners: 10%;
 }
 
+/* Dark mode variables */
+[data-theme="dark"] {
+    --background-color: #1a1a1a;
+    --text-color: rgba(255, 255, 255, 0.80);
+    --nav-text-color: rgba(255, 255, 255, 0.65);
+    --links-color: #7aa2f7;
+    --horizontal-rules-color: rgba(255, 255, 255, 0.10);
+}
+[data-theme="dark"] img {
+    opacity: 0.9;
+}
+
 
 /* General styles */
 body {
@@ -115,4 +127,32 @@ subtitle-bar-mini a {
     subtitle-bar-mini {
         display: block; /* Show the mini top bar */
     }
+}
+
+/* Dark mode toggle button */
+.theme-toggle {
+    position: fixed;
+    top: 16px;
+    right: 16px;
+    z-index: 1000;
+    background: none;
+    border: 1px solid var(--horizontal-rules-color);
+    border-radius: 50%;
+    width: 36px;
+    height: 36px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    color: var(--text-color);
+    transition: background-color 0.3s, color 0.3s, border-color 0.3s;
+    opacity: 0.6;
+}
+.theme-toggle:hover {
+    opacity: 1;
+}
+.theme-toggle i {
+    color: currentColor;
+    pointer-events: none;
 }
