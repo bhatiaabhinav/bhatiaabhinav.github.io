@@ -1,17 +1,17 @@
 ## CV
 
-<font size="2">Updated: March 26, 2026</font>
+<font size="2">Updated: June 26, 2026</font>
 
 Download [PDF](../files/abhinavbhatia_cv.pdf)
 
 
 ### Interests
-Reinforcement Learning, Inverse RL, Offline RL, Real-time Planning, AI Safety, Autonomous Vehicles, Embodied Robotics, LLM-assisted decision making
+Reinforcement Learning, Offline RL, Real-time Planning, AI Safety, Autonomous Vehicles, Embodied Robotics, LLM-assisted decision making, Vision-Language-Action models
 
 
 ### Education
 
-* Ph.D in Computer Science, [University of Massachusetts, Amherst](https://www.cics.umass.edu/), 2026 (expected).
+* Ph.D in Computer Science, [University of Massachusetts, Amherst](https://www.cics.umass.edu/), 2026.
   * Advisor: Prof. [Shlomo Zilberstein](https://groups.cs.umass.edu/shlomo/)
 * M.S. in Computer Science, [University of Massachusetts, Amherst](https://www.cics.umass.edu/), 2022. GPA 3.95/4.
 * B.E. (Hons.) in Computer Science, [Birla Institute of Technology and Science, Pilani](https://bits-pilani.ac.in/), 2015. GPA 9.27/10.
@@ -19,6 +19,8 @@ Reinforcement Learning, Inverse RL, Offline RL, Real-time Planning, AI Safety, A
 
 ### Work experience
 
+* Jun 2026 - Preset: Applied Scientist at Microsoft Xbox Game Studios, Redmond
+    * Developing AI for automated game-playing.
 * Jun 2024 - Aug 2024: Applied Sciences Intern at Microsoft Xbox Game Studios, Redmond
     * Multi-task inverse and offline reinforcement learning for text conditioned automated gameplay.
 * Jun 2017 - Jul 2019:  Research Engineer at [School of Computing and Information Systems](https://scis.smu.edu.sg), [Singapore Management University](https://www.smu.edu.sg)
