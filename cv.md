@@ -69,12 +69,13 @@ Reinforcement Learning, Offline RL, Real-time Planning, AI Safety, Autonomous Ve
 
 ### Manuscripts Under Submission
 
-**Safe Runtime Personalization of Reinforcement Learning Policies.** Developed a meta-reasoning framework that enables users to customize personality of customer-facing autonomous agents, such as robots or AVs, at runtime through multiple preference variables (resulting in millions of combinations vs. fixed presets) while provably guaranteeing safety for any setting. Experiments with a [custom AV simulation environment](https://github.com/bhatiaabhinav/Awesim) show near-oracle runtime personalization without safety violations.
+- Safe Runtime Personalization of Reinforcement Learning Policies <br>
+<small>Developed a meta-reasoning approach that enables users to customize personality of customer-facing autonomous agents, such as robots or AVs, at runtime through multiple preference variables (resulting in millions of combinations vs. fixed presets) while provably guaranteeing safety for any setting. Experiments with a [custom AV simulation environment](https://github.com/bhatiaabhinav/Awesim) show near-oracle runtime personalization without safety violations.</small>
 
 ### Relevant Coursework
 Artificial Intelligence, Reinforcement Learning, Robotics, Advanced Robot Dynamics & Control, Machine Learning, Neural Networks, Advanced Algorithms
 
-<small>Misc: The Advanced Robot Dynamics & Control coursework project involved training a simulated humanoid developed by a neighboring lab at UMass in Isaac Sim.
+<!-- <small>Misc: The Advanced Robot Dynamics & Control coursework project involved training a simulated humanoid developed by a neighboring lab at UMass in Isaac Sim. -->
 
 ### Programming Skills
 
