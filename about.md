@@ -1,6 +1,6 @@
 ## About
 
-Hello, I'm an **Applied Scientist** at **Microsoft Xbox Game Studios** in **Redmond**, where I work on developing AI for automated game-playing.
+Hello, I’m an **Applied Scientist at Microsoft Xbox Game Studios** in Redmond, developing AI agents that play complex fast-paced AAA games from visual input, tackling perception, real-time decision-making, long-horizon task execution, and long-term memory simultaneously using imitation learning, reinforcement learning, and related techniques.
 
 I have a **Ph.D. in Computer Science from the University of Massachusetts, Amherst**, advised by **[Prof. Shlomo Zilberstein](https://groups.cs.umass.edu/shlomo/)**. My Ph.D. research broadly focused on **reinforcement learning**, **real-time planning**, and **metareasoning for autonomous decision-making under constraints** such as time, data and safety; specific focus areas included **safe-RL**, **offline-RL**, **meta-RL**, **robotics** and **autonomous vehicles**.
 
