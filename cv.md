@@ -1,6 +1,6 @@
 ## CV
 
-<font size="2">Updated: June 26, 2026</font>
+<font size="2">Updated: Oct 28, 2026</font>
 
 Download [PDF](../files/abhinavbhatia_cv.pdf)
 
@@ -19,8 +19,8 @@ Reinforcement Learning, Offline RL, Real-time Planning, AI Safety, Autonomous Ve
 
 ### Work experience
 
-* Jun 2026 - Preset: Applied Scientist at Microsoft Xbox Game Studios, Redmond
-    * Developing AI for automated game-playing.
+* Jun 2026 - Present: Applied Scientist at Microsoft Xbox Game Studios, Redmond
+    * Developing AI agents for long-horizon automated gameplay from visual inputs in fast-paced AAA games, through imitation learning, reinforcement learning, and related techniques.
 * Jun 2024 - Aug 2024: Applied Sciences Intern at Microsoft Xbox Game Studios, Redmond
     * Multi-task inverse and offline reinforcement learning for text conditioned automated gameplay.
 * Jun 2017 - Jul 2019:  Research Engineer at [School of Computing and Information Systems](https://scis.smu.edu.sg), [Singapore Management University](https://www.smu.edu.sg)
@@ -67,13 +67,9 @@ Reinforcement Learning, Offline RL, Real-time Planning, AI Safety, Autonomous Ve
 <small>Bhatia, A., Varakantham, P., & Kumar, A. (2019). In _Proceedings of the International Conference on Automated Planning and Scheduling_.
 [PDF](files/BVKicaps2019.pdf)</small>
 
-### Ongoing Projects
+### Manuscripts Under Submission
 
-**Safe Runtime Personalization of Reinforcement Learning Policies**
-
-- Developed a meta-reasoning framework that enables users to customize personality of customer-facing autonomous agents, for example, driving style in autonomous vehicles, at runtime through multiple preference variables (resulting in millions of combinations vs. fixed presets) while provably guaranteeing safety even for untested configurations. Increases adoption and addresses safety challenges at scale.
-- The approach applies to any robotic or AI assistant.
-- As a testbench, designed and implemented a full-stack [AV simulator](https://github.com/bhatiaabhinav/Awesim) from scratch in pure C, enabling point-to-point driving simulation in seconds. Includes a city map, NPC traffic, and a lidar and vision stack with multiple cameras; supports ego control with deep RL through Python bindings or with lightweight deep-RL implemented in C.
+**Safe Runtime Personalization of Reinforcement Learning Policies.** Developed a meta-reasoning framework that enables users to customize personality of customer-facing autonomous agents, such as robots or AVs, at runtime through multiple preference variables (resulting in millions of combinations vs. fixed presets) while provably guaranteeing safety for any setting. Experiments with a [custom AV simulation environment](https://github.com/bhatiaabhinav/Awesim) show near-oracle runtime personalization without safety violations.
 
 ### Relevant Coursework
 Artificial Intelligence, Reinforcement Learning, Robotics, Advanced Robot Dynamics & Control, Machine Learning, Neural Networks, Advanced Algorithms
