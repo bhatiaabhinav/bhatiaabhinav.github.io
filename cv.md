@@ -19,20 +19,20 @@ Reinforcement Learning, Offline RL, Real-time Planning, AI Safety, Autonomous Ve
 
 ### Work experience
 
-* Jun 2026 - Present: Applied Scientist at Microsoft Xbox Game Studios, Redmond
+* Applied Scientist at Microsoft Xbox Game Studios, Redmond (Jun 2026 - Present)
     * Developing AI agents for long-horizon automated gameplay from visual inputs in fast-paced AAA games, through imitation learning, reinforcement learning, and related techniques.
-* Jun 2024 - Aug 2024: Applied Sciences Intern at Microsoft Xbox Game Studios, Redmond
+* Applied Sciences Intern at Microsoft Xbox Game Studios, Redmond (Jun 2024 - Aug 2024)
     * Multi-task inverse and offline reinforcement learning for text conditioned automated gameplay.
-* Jun 2017 - Jul 2019:  Research Engineer at [School of Computing and Information Systems](https://scis.smu.edu.sg), [Singapore Management University](https://www.smu.edu.sg)
+* Research Engineer at [School of Computing and Information Systems](https://scis.smu.edu.sg), [Singapore Management University](https://www.smu.edu.sg) (Jun 2017 - Jul 2019)
     * Supervised by Prof. [Pradeep Varakantham](http://www.mysmu.edu/faculty/pradeepv/) and Prof. [Akshat Kumar](http://www.mysmu.edu/faculty/akshatkumar/index.html)
     * Worked on optimizing constrained resource allocation at city scale with semireal datasets using deep reinforcement learning.
 
-* Aug 2015 - Jun 2017: Software Engineer at Walmart Labs, Bengaluru
+* Software Engineer at Walmart Labs, Bengaluru (Aug 2015 - Jun 2017)
     * Was part of the _Operations, Analytics & Research_ team for supply-chain division of Walmart’s eCommerce.
     * Developed an Elasticsearch based distributed database for data analysis.
     * Developed a deep-learning based system for anomaly-detection in large live incoming data streams.
 
-* Jan 2015 - Jun 2015: Software Development Engineer Intern at Amazon, Bengaluru
+* Software Development Engineer Intern at Amazon, Bengaluru (Jan 2015 - Jun 2015)
     * Worked on offline experience for Prime Video.
     * Worked on optimizing content load time for Prime Video on Kindle tablets.
 
@@ -106,4 +106,3 @@ Responsible for designing quizzes, clarifying students’ doubts and holding off
 * Conceptualized, developed and organized AI bot-making competition for a video game (IEEE BITS-Pilani chapter, 2014).
 * 1st Prize - PC 3D Gesture Interface using Kinect (BITS-Pilani Tech Festival 2014).
 * Offered Kishore Vaigyanik Protsahan Yojana (KVPY) Fellowship, Govt. of India (2010).
-
