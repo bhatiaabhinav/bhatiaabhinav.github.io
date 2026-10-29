@@ -12,27 +12,27 @@ Reinforcement Learning, Offline RL, Real-time Planning, AI Safety, Autonomous Ve
 ### Education
 
 * Ph.D in Computer Science, [University of Massachusetts, Amherst](https://www.cics.umass.edu/), 2026.
-  * Advisor: Prof. [Shlomo Zilberstein](https://groups.cs.umass.edu/shlomo/)
+    * Advisor: Prof. [Shlomo Zilberstein](https://groups.cs.umass.edu/shlomo/)
 * M.S. in Computer Science, [University of Massachusetts, Amherst](https://www.cics.umass.edu/), 2022. GPA 3.95/4.
 * B.E. (Hons.) in Computer Science, [Birla Institute of Technology and Science, Pilani](https://bits-pilani.ac.in/), 2015. GPA 9.27/10.
 
 
 ### Work experience
 
-* **Applied Scientist** at **Microsoft Xbox Game Studios**, Redmond (Jun 2026 - Present)
+* <i class="fab fa-microsoft"></i> **Applied Scientist** at **Microsoft Xbox Game Studios**, Redmond (Jun 2026 - Present)
     * Developing AI agents for long-horizon automated gameplay from visual inputs in fast-paced AAA games, through imitation learning, reinforcement learning, and related techniques.
-* **Applied Sciences Intern** at **Microsoft Xbox Game Studios**, Redmond (Jun 2024 - Aug 2024)
+* <i class="fab fa-microsoft"></i> **Applied Sciences Intern** at **Microsoft Xbox Game Studios**, Redmond (Jun 2024 - Aug 2024)
     * Multi-task inverse and offline reinforcement learning for text conditioned automated gameplay.
-* **Research Engineer** at **School of Computing and Information Systems, Singapore Management University** (Jun 2017 - Jul 2019)
+* <img src="https://computing.smu.edu.sg/themes/smubase_5g/assets/site-headers/logo-smu-d.svg?revised=20251228" alt="" height="16" style="vertical-align: -0.15em;"> **Research Engineer** at **School of Computing and Information Systems, Singapore Management University** (Jun 2017 - Jul 2019)
     * Supervised by Prof. [Pradeep Varakantham](http://www.mysmu.edu/faculty/pradeepv/) and Prof. [Akshat Kumar](http://www.mysmu.edu/faculty/akshatkumar/index.html)
     * Worked on optimizing constrained resource allocation at city scale with semireal datasets using deep reinforcement learning.
 
-* **Software Engineer** at **Walmart Labs**, Bengaluru (Aug 2015 - Jun 2017)
+* <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Walmart_spark_%282025%29.svg" alt="" height="16" style="vertical-align: -0.15em;"> **Software Engineer** at **Walmart Labs**, Bengaluru (Aug 2015 - Jun 2017)
     * Was part of the _Operations, Analytics & Research_ team for supply-chain division of Walmart’s eCommerce.
     * Developed an Elasticsearch based distributed database for data analysis.
     * Developed a deep-learning based system for anomaly-detection in large live incoming data streams.
 
-* **Software Development Engineer Intern** at **Amazon**, Bengaluru (Jan 2015 - Jun 2015)
+* <i class="fab fa-amazon"></i> **Software Development Engineer Intern** at **Amazon**, Bengaluru (Jan 2015 - Jun 2015)
     * Worked on offline experience for Prime Video.
     * Worked on optimizing content load time for Prime Video on Kindle tablets.
 
