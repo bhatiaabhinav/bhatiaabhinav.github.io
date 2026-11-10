@@ -1,6 +1,6 @@
 ## CV
 
-<font size="2">Updated: Oct 28, 2026</font>
+<font size="2">Updated: Nov 10, 2026</font>
 
 Download [PDF](../files/abhinavbhatia_cv.pdf)
 
@@ -70,7 +70,7 @@ Reinforcement Learning, Offline RL, Real-time Planning, AI Safety, Autonomous Ve
 ### Manuscripts Under Submission
 
 - Safe Runtime Personalization of Reinforcement Learning Policies <br>
-<small>Developed a meta-reasoning approach that enables users to customize personality of customer-facing autonomous agents, such as robots or AVs, at runtime through multiple preference variables (resulting in millions of combinations vs. fixed presets) while provably guaranteeing safety for any setting. Experiments with a [custom AV simulation environment](https://github.com/bhatiaabhinav/Awesim) show near-oracle runtime personalization without safety violations.</small>
+<small>Developed a meta-reasoning approach that enables users to customize personality of customer-facing autonomous agents, such as robots or AVs, at runtime through multiple preference variables (resulting in millions of combinations vs. fixed presets) while provably guaranteeing safety for any setting. Experiments with a [custom AV simulation environment](https://github.com/bhatiaabhinav/Awesim)(written in pure C!) show near-oracle runtime personalization without safety violations.</small>
 
 ### Relevant Coursework
 Artificial Intelligence, Reinforcement Learning, Robotics, Advanced Robot Dynamics & Control, Machine Learning, Neural Networks, Advanced Algorithms
